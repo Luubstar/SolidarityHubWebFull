@@ -1,7 +1,3 @@
-[submodule "SolidarityHub"]
-	path = SolidarityHub
-	url = https://github.com/Juguitoo/SolidarityHub
-	branch = main
 [submodule "SolidarityHubTareas"]
 	path = SolidarityHubTareas
 	url = https://github.com/Juguitoo/SolidarityHubTareas
